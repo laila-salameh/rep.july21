@@ -11,11 +11,11 @@ If you do not have a link yet, leave that section as an empty list: []
 */
 
 const studentProfile = {
-  name: "Your Name",
+  name: "Laila Salameh",
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Write a short paragraph about yourself here. You might include your scientific interests, what you hope to learn in DREAM-High, and something you are excited to explore in computational biology.",
+  bio: "My name is Laila Salameh, and I am passionate about biology, medicine, and using science to improve patient care. As an aspiring physician, I am excited to deepen my understanding of how computational biology and data science can be used to solve real-world health challenges. Through DREAM-High, I hope to strengthen my skills in coding and genomic data analysis while learning from researchers and collaborating with other students who share my passion for science. I am especially excited to explore how computational approaches can advance medical research and improve patient outcomes.",
 
   /*
   Optional photo:
@@ -27,7 +27,7 @@ const studentProfile = {
   */
   photo: "",
 
-  contact: "Contact information available upon request.",
+  contact: "lailasalameh09@gmail.com",
 
   /*
   RPubs activities:
@@ -39,12 +39,15 @@ const studentProfile = {
   rpubs: [
     {
       title: "Introduction to R",
-      url: "https://rpubs.com/"
+      url: "https://rpubs.com/lailasalameh/1448486"
     },
     {
       title: "Finding Patterns with Heatmaps",
-      url: "https://rpubs.com/"
-    }
+      url: "https://rpubs.com/lailasalameh/1447223"
+    },
+    title: "Exploring TCGA Breast Cancer Clinical Data in Python",
+      url: "https://rpubs.com/lailasalameh/1448473"
+    },
   ],
 
   /*
@@ -54,7 +57,7 @@ const studentProfile = {
   */
   finalProject: {
     title: "My DREAM-High Final Project",
-    description: "Write one or two sentences describing your final project.",
+    description: "For my final project, I plan to debunk common misconceptions about cancer and how it affects people.",
     url: ""
   },
 
