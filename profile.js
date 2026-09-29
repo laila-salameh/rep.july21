@@ -45,8 +45,13 @@ const studentProfile = {
       title: "Finding Patterns with Heatmaps",
       url: "https://rpubs.com/lailasalameh/1447223"
     },
+    {
     title: "Exploring TCGA Breast Cancer Clinical Data in Python",
       url: "https://rpubs.com/lailasalameh/1448473"
+    },
+    {
+    title: "Heat Maps with TCGA Breast Cancer Gene Expression Data",
+      url: "https://rpubs.com/lailasalameh/1449812"
     },
   ],
 
@@ -58,7 +63,7 @@ const studentProfile = {
   finalProject: {
     title: "My DREAM-High Final Project",
     description: "For my final project, I plan to debunk common misconceptions about cancer and how it affects people.",
-    url: ""
+    url: "https://canva.link/cdum3lod7wye3c8"
   },
 
   /*
